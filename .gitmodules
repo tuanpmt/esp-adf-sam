@@ -1,0 +1,6 @@
+[submodule "esp-adf"]
+	path = esp-adf
+	url = https://github.com/espressif/esp-adf.git
+[submodule "components/esp_sam/SAM"]
+	path = components/esp_sam/SAM
+	url = https://github.com/tuanpmt/SAM.git
